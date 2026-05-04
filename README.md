@@ -3,10 +3,9 @@
 Aqui estão alguns exemplos das linguagens de programação que estão dentro do meu interesse:
 
 <div style="display: inline-block">
-    <img align="center" alt="vr-c" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm3FvaQUXTejnsvqYDwvWy42e6lauTRb6YNw&s">
-    <img align="center" alt="vr-c++" height="30" width="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
-    <img align="center" alt="vr-c++_badge" height="30" width="auto" src="https://img.shields.io/badge/C++-blue-plastic">
-</div>
+    <img align="center" alt="vr-c" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png"> <img align="center" alt="vr-c++" height="30" width="30"
+        src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> <img align="center" alt="vr-nextjs-icon" height="30" width="30" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F3388%2FPNG%2F512%2Fnextjs_icon_212861.png&id=212861&pack_or_individual=pack">
+    </div>
 
 ##
 
