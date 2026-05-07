@@ -21,16 +21,8 @@
             src="https://github-readme-streak-stats-eight.vercel.app/?user=victorgnrocha&theme=material-palenight&hide_border=true&short_numbers=true"
             alt="Stats Streak" />
     </a>
-    <code><img height="32"JavaScript src="    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png" /></code>
 
-    src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="center" alt="vr-nextjs-icon" height="30" width="30"
-    src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" />
-
-
-
-    </div>
-
+</div>
 
 ###
 
