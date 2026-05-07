@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-### Oi! Meu nome é {Víctor}!
+### Oi! Meu nome é Víctor!
 
 <img src="https://img.shields.io/static/v1?label=Github&message=victorgnrocha&color=f8efd4&style=for-the-badge&logo=GitHub"
     alt="Static GitHub">
@@ -9,6 +9,17 @@
 
 <div align="center">
 </div>
+
+``js
+import <"C/Dev".h>
+
+typedef struct Victor extends C/Dev {
+
+    string local ="Joinville-SC";
+
+}; Victor
+
+``
 
 <div class="display: flex; gap: 10px; align-items: center;">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
