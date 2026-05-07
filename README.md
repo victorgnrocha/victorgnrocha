@@ -14,6 +14,13 @@ Im a C/C++ based progammer, but here's a list with all the programming languages
     alt="Github Stats"
   />
 </a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img
+    height="170"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=victorgnrocha&theme=material-palenight&hide_border=true&short_numbers=true"
+    alt="Stats Streak"
+  />
+</a>
 
 ##
 
