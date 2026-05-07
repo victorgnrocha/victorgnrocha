@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/static/v1?label=Github&message=victorgnrocha&color=f8efd4&style=for-the-badge&logo=GitHub"
     alt="Static GitHub">
 
-<p>Trabalhando na {nome da empresa}<br /> Eu sou desenvolvedor{C / C++ / Python}</p>
+<p> Atualmente Estudando na Universidade Federal de Santa Catarina (UFSC) <br /> Eu sou desenvolvedor{C / C++ / Python}</p>
 
 <div align="center">
 </div>
