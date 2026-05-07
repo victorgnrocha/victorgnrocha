@@ -10,17 +10,6 @@
 <div align="center">
 </div>
 
-``js
-import <"C/Dev".h>
-
-typedef struct Victor extends C/Dev {
-
-    string local ="Joinville-SC";
-
-}; Victor
-
-``
-
 <div class="display: flex; gap: 10px; align-items: center;">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img
@@ -38,6 +27,16 @@ typedef struct Victor extends C/Dev {
         height="30" width="30"
         src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp"/>
 </div>
+
+###Experiência de Trabalho:
+
+Na visão abaixo você encontrará minhas experiências recentes:
+
+<img align="left" height="94px" width="94px" alt="Warpnet" src=""/>
+
+**Estudante **\
+[**UFSC - Joinville**](https://www.ufsc.br) • Full-time \
+Linguagens & Tecnologias: `Python, C++, C, JavaScript, Type-Script...`, \
 
 ##
 
