@@ -13,13 +13,14 @@ Im a C/C++ based progammer, but here's a list with all the programming languages
         alt="Stats Streak"
     />
     </a>
-
+    <a>
     <img align="center" alt="vr-c" height="30" width="30"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png">
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png"/>
     <img align="center" alt="vr-c++" height="30" width="30"
-        src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> <img align="center" alt="vr-nextjs-icon"
+        src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
+    <img align="center" alt="vr-nextjs-icon"
         height="30" width="30"
-        src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp">
+        src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp"/>
 </div>
 
 ##
