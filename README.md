@@ -32,7 +32,7 @@
 
 Na visão abaixo você encontrará minhas experiências recentes:
 
-<img align="left" height="94px" width="94px" alt="Warpnet" src=""/>
+<img align="left" height="94px" width="94px" alt="Warpnet" src="https://identidade.ufsc.br/files/2017/10/vertical_extenso_fundo_claro_ok.png"/>
 
 **Estudante **\
 [**UFSC - Joinville**](https://www.ufsc.br) • Full-time \
